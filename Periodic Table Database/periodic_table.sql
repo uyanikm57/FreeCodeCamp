@@ -20,6 +20,8 @@ SET default_tablespace = '';
 
 SET default_table_access_method = heap;
 
+\connect periodic_table
+
 --
 -- Name: elements; Type: TABLE; Schema: public; Owner: freecodecamp
 --
